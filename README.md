@@ -2,8 +2,6 @@
 
 # Overview
 
-Imagine that Freedom ran a recent marketing campaign to promote the value proposition of how the debt relief program helps people achieve financial freedom. Suppose the cost of this campaign was $6 million and five months of data is provided. Let’s say campaign took place over the course of the third month. You now want to show the marketing, sales and operations teams just how successful this campaign was.
-
 ## Background
 Freedom Debt Relief is an organization that helps individuals who have accrued significant debt as a result of unexpected hardship and are no longer able to meet their minimum monthly requirements. Upon enrolling in Freedom’s Debt Relief program, customers cease making payments to their creditors and instead make deposits they can afford into a new dedicated bank account with Freedom. Freedom uses these funds to negotiate with each of the client’s creditors to settle the debt, typically at only a fraction of what was originally owed. Freedom collects fees (proportional to the monthly deposited amount) from the client for agreements it successfully negotiates.
 
