@@ -11,11 +11,11 @@ Freedom Debt Relief is an organization that helps individuals who have accrued s
 
 # Resources
 
-[client_data](/resources/datasets/client_data.csv) - Contains data regarding client's age, residence status, and geographical region
+[clients](/datasets/clients.csv) - Contains data regarding client's age, residence status, and geographical region
 
-[deposit_data](/resources/datasets/depost_data.csv) - Contains data regarding client deposit behavior. These include deposit type, deposit amount, deposit cadence, and deposit date.
+[deposits](/datasets/deposits.csv) - Contains data regarding client deposit behavior. These include deposit type, deposit amount, deposit cadence, and deposit date.
 
-[calendar_data](/resources/datasets/calendar_data.csv) - Contains calendar information in relation to deposit and client datasets.
+[calendar](/datasets/calendar.csv) - Contains calendar information in relation to deposit and client datasets.
 
 # Results
 
