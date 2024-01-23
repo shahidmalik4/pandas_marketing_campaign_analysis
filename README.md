@@ -22,17 +22,17 @@ Freedom Debt Relief is an organization that helps individuals who have accrued s
 ## Question 1: Provide a Quantitative Assessment of the Marketing Campaign's Success
 In order to quantify the success of the marketing campaign, the monetary value of deposits over the course of the 5 month period was assessed. Below we can see that a substantial increase in total deposits was observed while the marketing campaign was running (month 3) and that total deposits remained high after the campaign ended (months 4 and 5).
 
-![Total_Deposit_Amount](/resources/images/deposit_amount_by_month.png)
+![Total_Deposit_Amount](/datasets/images/deposit_amount_by_month.png)
 
 On average, Freedom charges a fee of 21.5% of the total amount of debt that they are able to settle on behalf of their clients. Therefore, the total deposit amount per month was multiplied by 0.215 to calculate the profit per month.
 
-![Profit_Per_Month](/resources/images/profit_by_month.png)
+![Profit_Per_Month](/datasets/images/profit_by_month.png)
 
 On average, the profit per month before the campaign was ~$6.3 million while after the campaign it was ~$8.2 million. This indicates the marketing campaign increased profit ~$1.9 million per month. 
 
 To better understand the cost and benefits of the marketing campaign, hypothetical data was generated to show total profit over a 12 month period with/without the campaign. It was assumed that profit each month would reflect the average profit per month before and after the campaign (before = $6.3 million and after = $8.2 million). In addition, since the marketing campaign cost $5 million campaign began at -$5 million. We can see that by the 4th month the campaign would have increased profits by $700,000 and by the 12th month profits would be icnreased by $17,800,000. 
 
-![Hypothetical Profit](/resources/images/hypothetical_profit.png)
+![Hypothetical Profit](/datasets/images/hypothetical_profit.png)
 
 Based on this data, it appears the marketing campaign will have been well worth the $5 million investment provided there isn't a significant increase in client churn or significant changes in client's depoist amounts.
 
@@ -41,16 +41,16 @@ The marketing campaign couuld be improved by targeting specific groups that enro
 
 First, clients were grouped based on age and the change in client's based on age was graphed. We can see that the marketing campaign was successful in generating new clients across most age groups. However, this was most prominent in individuals between 31-70 years of age. 
 
-![Deposit_by_Age](/resources/images/total_deposit_amount_by_age_each_month.png)
+![Deposit_by_Age](/datasets/images/total_deposit_amount_by_age_each_month.png)
 
 
 We also observe that individuals who own homes were also more responsive to the marketing campaign.
 
-![Owner_Renter](/resources/images/number_of_owners_vs_renters_each_month.png)
+![Owner_Renter](/datasets/images/number_of_owners_vs_renters_each_month.png)
 
 We find similar trends when we look at the total number of Freedom's clients that are renters vs owners by age.
 
-![Owner_Renter_Age](/resources/images/client_residence_status_by_age.png)
+![Owner_Renter_Age](/datasets/images/client_residence_status_by_age.png)
 
 Based on this data, future marketing campaigns could be targeted at middle aged individuals and those who are home owners. 
 
